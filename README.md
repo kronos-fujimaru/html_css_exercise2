@@ -37,6 +37,10 @@ HTML/CSSを用いて以下のような画面を作成しなさい。
 
 HTML/CSSを用いて以下のような画面を作成しなさい。
 
+【使用画像】<br>
+<a href="images/table.png" download="images/table.png">table.png</a><br>
+<a href="images/desk.png" download="sample.pdf">table.png</a>
+
 <img src="images/html-css4.png" alt="html-css4" width="800">
 
 [解答例](answer/html-css-04.md)
@@ -47,6 +51,11 @@ HTML/CSSを用いて以下のような画面を作成しなさい。
 ### 演習5
 
 HTML/CSSを用いて以下のような画面を作成しなさい。
+
+【使用画像】<br>
+<a href="images/chair.png" download="images/chair.png">table.png</a><br>
+<a href="images/bed.png" download="images/bed.png">table.png</a><br>
+<a href="images/sofa.png" download="images/sofa.png">table.png</a>
 
 <img src="images/html-css5.png" alt="html-css5" width="800">
 
